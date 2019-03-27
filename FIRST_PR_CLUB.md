@@ -37,3 +37,9 @@ Hey all, just getting used to running with the PR process again.
 
 ----
 pdcoded :: Long live Internet and OpenSouce !
+
+---
+* [Akum Blaise Acha](https://github.com/Akum65358Blaise) hello everyone i am Akum Blaise.
+Location: Cameroon
+i have been working on frond end web development for a while now.versed with Javascript html5 css3 bootstrap4 and many more.hope to contribute to the realisation of a perfect user interface for the project.
+happy to finally join an open source platform.
